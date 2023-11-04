@@ -1,0 +1,115 @@
+body{
+  text-align: center;
+  background-color: #ffffff;
+  font-size: 100%;
+  margin: 0%;
+}
+hr{
+    border: dotted #DDDDDD 6px;
+    border-bottom: none;
+    width: 7%;
+    margin: 100px auto;
+}
+
+.upper_container{
+  background-color: #EEFFFC;
+  margin: 0em 0em 100px auto;
+}
+#welcome{
+  font-family: 'Sacramento', cursive;
+  color: #17aa8d;
+  font-size: 6rem;
+  margin: 0;
+  padding-top: 10.375%;
+}
+#b{
+  width: 7%;
+  position: absolute;
+  top: 15.635rem;
+  right: 20.625rem;
+}
+#c{
+  width: 13%;
+  position: relative;
+  bottom: 15.125rem;
+  right: 15.625rem;
+}
+#d{
+  width: 8%;
+  position: relative;
+  top: 6.125rem;
+}
+.mountain{
+  margin: auto auto 0em auto;
+  width: 75%;
+}
+
+#profile_img{
+  border-radius: 50%;
+  width: 13rem;
+  height: 13rem;
+}
+.hello{
+  font-family: 'Montserrat', sans-serif;
+  color: #2E0249;
+}
+.info{
+  margin: auto;
+  width: 75%;
+  font-family: 'Merriweather', serif;
+}
+.my_skil_head{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  color: #2E0249;
+}
+.skil_row{
+  margin: 6rem auto 6rem auto;
+  width: 70%;
+  text-align: left;
+  line-height: 2;
+}
+.python_img, .c_img, .mysql_img, .html_img, .css_img, .js_img, .java_img, .asm_img{
+  border-radius: 50%;
+  width: 11rem;
+}
+.python_h2, .c_h2, .mysql_h2, .html_h2, .css_h2, .js_h2, .java_h2, .asm_h2{
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+  color: #fd6100;
+}
+
+.python_mat, .c_mat, .mysql_mat, .html_mat, .css_mat, .js_mat, .java_mat, .asm_mat{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.python_img, .c_img, .java_img, .asm_img{
+  float: left;
+  margin-right: 3rem;
+}
+.html_img, .css_img, .js_img, .mysql_img{
+  float: right;
+  margin-left: 3rem;
+}
+
+
+
+
+.lower_container{
+    padding: 3rem 0 1rem;
+    background-color: #EEFFFC;
+}
+.cont_pages{
+    color: #00E4AD;
+    text-decoration: none;
+}
+
+.cont_pages:hover {
+  color: #36FFCE;
+}
+.copyrigth{
+  margin: 1rem auto 1rem auto;
+  font-size: 75%;
+  width: 50%;
+}
